@@ -7,3 +7,7 @@ This project categorizes a list of numbers into even or odd using Dart. The prog
 1. Ensure you have Dart installed on your system.
 2. Clone the repository.
 3. Run the `categorize_numbers.dart` file using the Dart command: dart run categorize_numbers.dart
+
+
+## Output
+![Output Screenshot](screenshot.png)
